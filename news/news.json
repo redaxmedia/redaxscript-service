@@ -1,0 +1,14 @@
+{
+	"info":
+	{
+		"CallHome":
+		{
+			"text": "Redaxscript's brand new documentation is online!",
+			"attr":
+			{
+				"href": "https:\/\/docs.redaxscript.com",
+				"target": "_blank"
+			}
+		}
+	}
+}
