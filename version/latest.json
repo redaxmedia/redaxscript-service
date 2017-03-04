@@ -1,6 +1,5 @@
-{
-	"success":
+[
 	{
-		"CallHome": "You are using the latest version of Redaxscript."
+		"success": "You are using the latest version of Redaxscript."
 	}
-}
+]

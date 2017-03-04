@@ -1,14 +1,13 @@
-{
-	"info":
+[
 	{
-		"CallHome":
+		"info":
 		{
-			"text": "Redaxscript's brand new documentation is online!",
+			"text": "Do you have any questions? We are glad to give you a helpful hand.",
 			"attr":
 			{
-				"href": "https:\/\/docs.redaxscript.com",
+				"href": "https://redaxscript.com/documentation/basics/help-center",
 				"target": "_blank"
 			}
 		}
 	}
-}
+]

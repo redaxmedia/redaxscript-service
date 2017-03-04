@@ -1,6 +1,5 @@
-{
-	"warning":
+[
 	{
-		"CallHome": "You are using a unstable version of Redaxscript."
+		"warning": "You are using a unstable version of Redaxscript."
 	}
-}
+]

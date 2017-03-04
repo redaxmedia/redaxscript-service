@@ -1,6 +1,5 @@
-{
-	"info":
+[
 	{
-		"CallHome": "You are using a outdated version of Redaxscript."
+		"info": "You are using a outdated version of Redaxscript."
 	}
-}
+]
