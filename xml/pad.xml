@@ -93,9 +93,9 @@
 		<Program_System_Requirements>SQLite, MySQL, PostgreSQL, PHP, Apache</Program_System_Requirements>
 		<Program_Category_Class>Web Development::Site Administration</Program_Category_Class>
 		<File_Info>
-			<File_Size_Bytes />
-			<File_Size_K />
-			<File_Size_MB />
+			<File_Size_Bytes>314368</File_Size_Bytes>
+			<File_Size_K>307</File_Size_K>
+			<File_Size_MB>0.299</File_Size_MB>
 			<Filename_Versioned />
 			<Filename_Previous />
 			<Filename_Generic />
@@ -126,8 +126,8 @@
 		<Application_URLs>
 			<Application_Info_URL>https://redaxscript.com/features</Application_Info_URL>
 			<Application_Order_URL>https://redaxscript.com/features</Application_Order_URL>
-			<Application_Screenshot_URL />
-			<Application_Icon_URL />
+			<Application_Screenshot_URL>https://service.redaxscript.com/images/screenshot.png</Application_Screenshot_URL>
+			<Application_Icon_URL>https://service.redaxscript.com/images/icon.png</Application_Icon_URL>
 			<Application_XML_File_URL>https://service.redaxscript.com/xml/pad.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
