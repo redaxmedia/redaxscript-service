@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <XML_DIZ_INFO>
 	<MASTER_PAD_VERSION_INFO>
 		<MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
@@ -65,9 +65,9 @@
 		<Site_Contact_First_Name>Henry</Site_Contact_First_Name>
 		<Site_Contact_Last_Name>Ruhs</Site_Contact_Last_Name>
 		<Site_Site_URL>https://redaxscript.com</Site_Site_URL>
-		<Site_Description_100>Redaxscript is a modern, ultra lightweight and rocket fast Content Management System for SQLite, MySQL and PostgreSQL.</Site_Description_100>
-		<Site_Description_250>Redaxscript is a modern, ultra lightweight and rocket fast Content Management System for SQLite, MySQL and PostgreSQL.</Site_Description_250>
-		<Site_Description_450>Redaxscript is a modern, ultra lightweight and rocket fast Content Management System for SQLite, MySQL and PostgreSQL.</Site_Description_450>
+		<Site_Description_100>Redaxscript is a modern, ultra lightweight and rocket fast Content Management System for SQLite, MSSQL, MySQL and PostgreSQL.</Site_Description_100>
+		<Site_Description_250>Redaxscript is a modern, ultra lightweight and rocket fast Content Management System for SQLite, MSSQL, MySQL and PostgreSQL.</Site_Description_250>
+		<Site_Description_450>Redaxscript is a modern, ultra lightweight and rocket fast Content Management System for SQLite, MSSQL, MySQL and PostgreSQL.</Site_Description_450>
 		<Site_Site_Title>Redaxscript</Site_Site_Title>
 		<Site_Keywords>Content, Management, System, CMS, Blog</Site_Keywords>
 	</Site>
@@ -79,9 +79,9 @@
 	</Dynamic_PAD>
 	<Program_Info>
 		<Program_Name>Redaxscript</Program_Name>
-		<Program_Version>3.0.1</Program_Version>
-		<Program_Release_Month>01</Program_Release_Month>
-		<Program_Release_Day>03</Program_Release_Day>
+		<Program_Version>3.1.0</Program_Version>
+		<Program_Release_Month>05</Program_Release_Month>
+		<Program_Release_Day>14</Program_Release_Day>
 		<Program_Release_Year>2017</Program_Release_Year>
 		<Program_Cost_Dollars>0</Program_Cost_Dollars>
 		<Program_Type>Freeware</Program_Type>
@@ -90,12 +90,12 @@
 		<Program_OS_Support>WinServer, Unix, Linux</Program_OS_Support>
 		<Program_Language>English</Program_Language>
 		<Program_Change_Info />
-		<Program_System_Requirements>SQLite, MySQL, PostgreSQL, PHP, Apache</Program_System_Requirements>
+		<Program_System_Requirements>SQLite, MSSQL, MySQL, PostgreSQL, PHP, Apache, Nginx, IIS</Program_System_Requirements>
 		<Program_Category_Class>Web Development::Site Administration</Program_Category_Class>
 		<File_Info>
-			<File_Size_Bytes>314368</File_Size_Bytes>
-			<File_Size_K>307</File_Size_K>
-			<File_Size_MB>0.299</File_Size_MB>
+			<File_Size_Bytes />
+			<File_Size_K />
+			<File_Size_MB />
 			<Filename_Versioned />
 			<Filename_Previous />
 			<Filename_Generic />
@@ -131,8 +131,8 @@
 			<Application_XML_File_URL>https://service.redaxscript.com/xml/pad.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL>https://redaxscript.com/files/releases/redaxscript-3.0.1-lite.zip</Primary_Download_URL>
-			<Secondary_Download_URL>https://redaxscript.com/files/releases/redaxscript-3.0.1-full.zip</Secondary_Download_URL>
+			<Primary_Download_URL>https://redaxscript.com/files/releases/redaxscript-3.1.0-production-lite.zip</Primary_Download_URL>
+			<Secondary_Download_URL>https://redaxscript.com/files/releases/redaxscript-3.1.0-production-full.zip</Secondary_Download_URL>
 			<Additional_Download_URL_1>https://redaxscript.com/downloads</Additional_Download_URL_1>
 			<Additional_Download_URL_2 />
 		</Download_URLs>
@@ -167,9 +167,9 @@
 			<Keywords>Content, Management, System, CMS, Blog</Keywords>
 			<Char_Desc_45>Ultra lightweight Content Management System.</Char_Desc_45>
 			<Char_Desc_80>Ultra lightweight Content Management System.</Char_Desc_80>
-			<Char_Desc_250>Redaxscript is a modern, ultra lightweight and rocket fast Content Management System for SQLite, MySQL and PostgreSQL.</Char_Desc_250>
-			<Char_Desc_450>Redaxscript is a modern, ultra lightweight and rocket fast Content Management System for SQLite, MySQL and PostgreSQL.</Char_Desc_450>
-			<Char_Desc_2000>Redaxscript is a modern, ultra lightweight and rocket fast Content Management System for SQLite, MySQL and PostgreSQL.</Char_Desc_2000>
+			<Char_Desc_250>Redaxscript is a modern, ultra lightweight and rocket fast Content Management System for SQLite, MSSQL, MySQL and PostgreSQL.</Char_Desc_250>
+			<Char_Desc_450>Redaxscript is a modern, ultra lightweight and rocket fast Content Management System for SQLite, MSSQL, MySQL and PostgreSQL.</Char_Desc_450>
+			<Char_Desc_2000>Redaxscript is a modern, ultra lightweight and rocket fast Content Management System for SQLite, MSSQL, MySQL and PostgreSQL.</Char_Desc_2000>
 		</English>
 	</Program_Descriptions>
 </XML_DIZ_INFO>
