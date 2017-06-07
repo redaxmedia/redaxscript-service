@@ -6,4 +6,4 @@ curl --request POST \
 	--header "Travis-API-Version: 3" \
 	--header "Authorization: token $TRAVIS_TOKEN" \
 	--data "@trigger.json" \
-	https://api.travis-ci.org/repo/redaxmedia%2Fredaxscript-documentation-sync/requests
+	https://api.travis-ci.org/repo/redaxmedia%2Fredaxscript-service-sync/requests
