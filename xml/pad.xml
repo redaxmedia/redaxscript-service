@@ -79,9 +79,9 @@
 	</Dynamic_PAD>
 	<Program_Info>
 		<Program_Name>Redaxscript</Program_Name>
-		<Program_Version>3.2.0</Program_Version>
+		<Program_Version>3.2.1</Program_Version>
 		<Program_Release_Month>06</Program_Release_Month>
-		<Program_Release_Day>07</Program_Release_Day>
+		<Program_Release_Day>30</Program_Release_Day>
 		<Program_Release_Year>2017</Program_Release_Year>
 		<Program_Cost_Dollars>0</Program_Cost_Dollars>
 		<Program_Type>Freeware</Program_Type>
@@ -131,8 +131,8 @@
 			<Application_XML_File_URL>https://service.redaxscript.com/xml/pad.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL>https://redaxscript.com/files/releases/redaxscript-3.2.0-production-lite.zip</Primary_Download_URL>
-			<Secondary_Download_URL>https://redaxscript.com/files/releases/redaxscript-3.2.0-production-full.zip</Secondary_Download_URL>
+			<Primary_Download_URL>https://redaxscript.com/files/releases/redaxscript-3.2.1-production-lite.zip</Primary_Download_URL>
+			<Secondary_Download_URL>https://redaxscript.com/files/releases/redaxscript-3.2.1-production-full.zip</Secondary_Download_URL>
 			<Additional_Download_URL_1>https://redaxscript.com/downloads</Additional_Download_URL_1>
 			<Additional_Download_URL_2 />
 		</Download_URLs>
