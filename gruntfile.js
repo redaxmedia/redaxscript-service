@@ -6,42 +6,8 @@ module.exports = function (grunt)
 
 	grunt.initConfig(
 	{
-		version: grunt.file.readJSON('package.json').version,
-		jsonlint:
-		{
-			dependency:
-			{
-				src:
-				[
-					'composer.json',
-					'package.json'
-				]
-			},
-			news:
-			{
-				src:
-				[
-					'news/*.json'
-				]
-			},
-			version:
-			{
-				src:
-				[
-					'version/*.json'
-				]
-			}
-		},
-		xml_validator:
-		{
-			xml:
-			{
-				src:
-				[
-					'xml/*.xml'
-				]
-			}
-		}
+		jsonlint: require('./tasks/jsonlint')(grunt),
+		xml_validator: require('./tasks/xml_validator')(grunt)
 	});
 
 	/* load tasks */
