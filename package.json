@@ -1,7 +1,7 @@
 {
 	"name": "redaxscript-service",
 	"description": "Service for Redaxscript",
-	"version": "3.2.2",
+	"version": "3.2.3",
 	"homepage": "https://service.redaxscript.com",
 	"license": "GPL-3.0",
 	"author":
