@@ -11,7 +11,7 @@ script:
 - grunt
 
 after_success:
-- sh trigger.sh
+- grunt trigger
 
 notifications:
  email:

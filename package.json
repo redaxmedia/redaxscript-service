@@ -13,6 +13,7 @@
 	{
 		"grunt": "1.0.1",
 		"grunt-jsonlint": "1.1.0",
+		"grunt-http": "2.2.0",
 		"grunt-xml-validator": "1.1.3",
 		"load-grunt-tasks": "3.5.2"
 	}

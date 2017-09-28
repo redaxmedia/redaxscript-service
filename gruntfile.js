@@ -6,6 +6,7 @@ module.exports = function (grunt)
 
 	grunt.initConfig(
 	{
+		http: require('./tasks/http')(grunt),
 		jsonlint: require('./tasks/jsonlint')(grunt),
 		xml_validator: require('./tasks/xml_validator')(grunt)
 	});
@@ -20,5 +21,9 @@ module.exports = function (grunt)
 	[
 		'jsonlint',
 		'xml_validator'
+	]);
+	grunt.registerTask('trigger',
+	[
+		'http:trigger'
 	]);
 };
