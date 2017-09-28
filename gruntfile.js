@@ -6,9 +6,9 @@ module.exports = function (grunt)
 
 	grunt.initConfig(
 	{
-		http: require('./tasks/http')(grunt),
 		jsonlint: require('./tasks/jsonlint')(grunt),
-		xml_validator: require('./tasks/xml_validator')(grunt)
+		xml_validator: require('./tasks/xml_validator')(grunt),
+		http: require('./tasks/http')(grunt)
 	});
 
 	/* load tasks */
