@@ -8,3 +8,4 @@ redirect /version/3-2-3 /version/outdated.json
 redirect /version/3-3-0 /version/outdated.json
 redirect /version/3-3-1 /version/outdated.json
 redirect /version/3-3-2 /version/latest.json
+redirect /version/4-0-0-beta.1 /version/unstable.json
