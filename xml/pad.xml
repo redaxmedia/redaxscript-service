@@ -79,14 +79,14 @@
 	</Dynamic_PAD>
 	<Program_Info>
 		<Program_Name>Redaxscript</Program_Name>
-		<Program_Version>4.0.0-beta.2</Program_Version>
-		<Program_Release_Month>12</Program_Release_Month>
-		<Program_Release_Day>16</Program_Release_Day>
-		<Program_Release_Year>2018</Program_Release_Year>
+		<Program_Version>4.0.0 Beta 3</Program_Version>
+		<Program_Release_Month>02</Program_Release_Month>
+		<Program_Release_Day>02</Program_Release_Day>
+		<Program_Release_Year>2019</Program_Release_Year>
 		<Program_Cost_Dollars>0</Program_Cost_Dollars>
 		<Program_Type>Freeware</Program_Type>
 		<Program_Release_Status>Major Update</Program_Release_Status>
-		<Program_Install_Support>Install Only</Program_Install_Support>
+		<Program_Install_Support></Program_Install_Support>
 		<Program_OS_Support>WinServer, Unix, Linux</Program_OS_Support>
 		<Program_Language>English</Program_Language>
 		<Program_Change_Info />
@@ -131,8 +131,8 @@
 			<Application_XML_File_URL>https://service.redaxscript.com/xml/pad.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.0.0-beta.2-lite.zip</Primary_Download_URL>
-			<Secondary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.0.0-beta.2-full.zip</Secondary_Download_URL>
+			<Primary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.0.0-beta.3-lite.zip</Primary_Download_URL>
+			<Secondary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.0.0-beta.3-full.zip</Secondary_Download_URL>
 			<Additional_Download_URL_1>https://redaxscript.com/downloads</Additional_Download_URL_1>
 			<Additional_Download_URL_2 />
 		</Download_URLs>
