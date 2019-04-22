@@ -126,20 +126,20 @@
 		<Application_URLs>
 			<Application_Info_URL>https://redaxscript.com/features</Application_Info_URL>
 			<Application_Order_URL>https://redaxscript.com/features</Application_Order_URL>
-			<Application_Screenshot_URL>https://service.redaxscript.com/images/screenshot.png</Application_Screenshot_URL>
+			<Application_Screenshot_URL>https://service.redaxscript.com/images/screenshot.jpg</Application_Screenshot_URL>
 			<Application_Icon_URL>https://service.redaxscript.com/images/icon.png</Application_Icon_URL>
 			<Application_XML_File_URL>https://service.redaxscript.com/xml/pad.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.0.0-beta.3-lite.zip</Primary_Download_URL>
-			<Secondary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.0.0-beta.3-full.zip</Secondary_Download_URL>
+			<Primary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.0.0-beta.4-lite.zip</Primary_Download_URL>
+			<Secondary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.0.0-beta.4-full.zip</Secondary_Download_URL>
 			<Additional_Download_URL_1>https://redaxscript.com/downloads</Additional_Download_URL_1>
 			<Additional_Download_URL_2 />
 		</Download_URLs>
 	</Web_Info>
 	<Permissions>
-		<Distribution_Permissions>General Public License</Distribution_Permissions>
-		<EULA>General Public License</EULA>
+		<Distribution_Permissions>MIT</Distribution_Permissions>
+		<EULA>MIT</EULA>
 	</Permissions>
 	<Press_Release>
 		<Related_URL />
