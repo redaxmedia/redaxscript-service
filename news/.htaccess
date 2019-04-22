@@ -13,3 +13,4 @@ redirect /news/4-0-0-beta.2 /news/news.json
 redirect /news/4-0-0-beta.3 /news/news.json
 redirect /news/4-0-0-beta.4 /news/news.json
 redirect /news/4-0-0-beta.5 /news/news.json
+redirect /news/4-0-0 /news/news.json
