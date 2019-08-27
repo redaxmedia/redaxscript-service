@@ -79,9 +79,9 @@
 	</Dynamic_PAD>
 	<Program_Info>
 		<Program_Name>Redaxscript</Program_Name>
-		<Program_Version>4.0.0 Beta 5</Program_Version>
-		<Program_Release_Month>06</Program_Release_Month>
-		<Program_Release_Day>04</Program_Release_Day>
+		<Program_Version>4.0.0</Program_Version>
+		<Program_Release_Month>08</Program_Release_Month>
+		<Program_Release_Day>27</Program_Release_Day>
 		<Program_Release_Year>2019</Program_Release_Year>
 		<Program_Cost_Dollars>0</Program_Cost_Dollars>
 		<Program_Type>Freeware</Program_Type>
@@ -131,8 +131,8 @@
 			<Application_XML_File_URL>https://service.redaxscript.com/xml/pad.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.0.0-beta.5-lite.zip</Primary_Download_URL>
-			<Secondary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.0.0-beta.5-full.zip</Secondary_Download_URL>
+			<Primary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.0.0-lite.zip</Primary_Download_URL>
+			<Secondary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.0.0-full.zip</Secondary_Download_URL>
 			<Additional_Download_URL_1>https://redaxscript.com/downloads</Additional_Download_URL_1>
 			<Additional_Download_URL_2 />
 		</Download_URLs>

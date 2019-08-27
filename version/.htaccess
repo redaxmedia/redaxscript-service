@@ -12,5 +12,5 @@ redirect /version/4-0-0-beta.1 /version/outdated.json
 redirect /version/4-0-0-beta.2 /version/outdated.json
 redirect /version/4-0-0-beta.3 /version/outdated.json
 redirect /version/4-0-0-beta.4 /version/outdated.json
-redirect /version/4-0-0-beta.5 /version/latest.json
-redirect /version/4-0-0 /version/unstable.json
+redirect /version/4-0-0-beta.5 /version/outdated.json
+redirect /version/4-0-0 /version/latest.json
