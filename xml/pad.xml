@@ -131,9 +131,9 @@
 			<Application_XML_File_URL>https://service.redaxscript.com/xml/pad.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.2.0-lite.zip</Primary_Download_URL>
-			<Secondary_Download_URL>https://redaxscript.com/files/releases/redaxscript-4.2.0-full.zip</Secondary_Download_URL>
-			<Additional_Download_URL_1>https://redaxscript.com/downloads</Additional_Download_URL_1>
+			<Primary_Download_URL>https://redaxscript.com/_download/releases/redaxscript-4.2.0-lite.zip</Primary_Download_URL>
+			<Secondary_Download_URL>https://redaxscript.com/_download/releases/redaxscript-4.2.0-full.zip</Secondary_Download_URL>
+			<Additional_Download_URL_1>https://redaxscript.com/download</Additional_Download_URL_1>
 			<Additional_Download_URL_2 />
 		</Download_URLs>
 	</Web_Info>
