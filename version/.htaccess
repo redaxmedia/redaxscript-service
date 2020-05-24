@@ -2,3 +2,4 @@ redirect /version/4-0-0 /version/outdated.json
 redirect /version/4-1-0 /version/outdated.json
 redirect /version/4-1-1 /version/outdated.json
 redirect /version/4-2-0 /version/latest.json
+redirect /version/4-3-0 /version/unstable.json
