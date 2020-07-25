@@ -1,7 +1,7 @@
 {
 	"name": "redaxscript/redaxscript-service",
 	"description": "Service for Redaxscript",
-	"version": "4.3.1",
+	"version": "4.3.2",
 	"homepage": "https://service.redaxscript.com",
 	"license": "MIT"
 }
