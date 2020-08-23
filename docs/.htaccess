@@ -1,0 +1,1 @@
+redirectmatch /docs/modules/(.*) https://github.com/redaxscript/redaxscript/tree/master/modules/$1

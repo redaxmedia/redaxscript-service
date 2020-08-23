@@ -5,3 +5,4 @@ redirect /news/4-2-0 /news/news.json
 redirect /news/4-3-0 /news/news.json
 redirect /news/4-3-1 /news/news.json
 redirect /news/4-3-2 /news/news.json
+redirect /news/4-4-0 /news/news.json
