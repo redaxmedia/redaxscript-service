@@ -2,7 +2,7 @@ module.exports = () =>
 {
 	const config =
 	{
-		xml:
+		root:
 		{
 			src:
 			[
