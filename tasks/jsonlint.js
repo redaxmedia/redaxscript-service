@@ -10,13 +10,6 @@ module.exports = () =>
 				'package.json'
 			]
 		},
-		news:
-		{
-			src:
-			[
-				'news/*.json'
-			]
-		},
 		version:
 		{
 			src:

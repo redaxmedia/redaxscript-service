@@ -6,7 +6,7 @@ module.exports = () =>
 		{
 			src:
 			[
-				'xml/*.xml'
+				'pad.xml'
 			]
 		}
 	};
