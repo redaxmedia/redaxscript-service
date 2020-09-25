@@ -1,0 +1,20 @@
+redirectmatch /download-primary/4-4-0 https://redaxscript.com/_download/releases/redaxscript-4.4.0-lite.zip
+redirectmatch /download-secondary/4-4-0 https://redaxscript.com/_download/releases/redaxscript-4.4.0-full.zip
+
+redirect /licenses/MIT https://github.com/redaxscript/redaxscript/blob/master/LICENSE.md
+redirect /licenses/Sponsorware https://github.com/sponsors/redaxmedia
+
+redirectmatch /modules/(.*) https://github.com/redaxscript/redaxscript/tree/master/modules/$1
+
+redirect /version/4-0-0 /version/outdated.json
+redirect /version/4-1-0 /version/outdated.json
+redirect /version/4-1-1 /version/outdated.json
+redirect /version/4-2-0 /version/outdated.json
+redirect /version/4-3-0 /version/outdated.json
+redirect /version/4-3-1 /version/outdated.json
+redirect /version/4-3-2 /version/outdated.json
+redirect /version/4-4-0 /version/latest.json
+redirect /version/4-5-0 /version/unstable.json
+
+redirect /xml/pad.xml /pad.xml
+
