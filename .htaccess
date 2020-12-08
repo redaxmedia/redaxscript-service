@@ -1,7 +1,7 @@
 redirectmatch /download-primary/4-4-0 https://redaxscript.com/_download/releases/redaxscript-4.4.0-lite.zip
 redirectmatch /download-secondary/4-4-0 https://redaxscript.com/_download/releases/redaxscript-4.4.0-full.zip
 
-redirect /licenses/MIT https://github.com/redaxscript/redaxscript/blob/master/LICENSE.md
+redirect /licenses/MIT https://github.com/sponsors/redaxmedia
 redirect /licenses/Sponsorware https://github.com/sponsors/redaxmedia
 
 redirectmatch /modules/(.*) https://github.com/redaxscript/redaxscript/tree/master/modules/$1
