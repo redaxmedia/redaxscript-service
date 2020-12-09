@@ -2,7 +2,7 @@ redirectmatch /download-primary/4-* https://redaxscript.com/_download/releases/r
 redirectmatch /download-secondary/4-* https://redaxscript.com/_download/releases/redaxscript-4.4.0-full.zip
 
 redirect /licenses/MIT https://redaxscript.com/documentation/licenses/mit-license-1085
-redirect /licenses/Sponsor https://redaxscript.com/documentation/licenses/mit-sponsor-1086
+redirect /licenses/Sponsor https://redaxscript.com/documentation/licenses/sponsor-license-1086
 
 redirect /modules/AliasGenerator https://redaxscript.com/documentation/tutorials/alias-generator-module-1046
 redirect /modules/Analytics https://redaxscript.com/documentation/tutorials/analytics-module-1047
