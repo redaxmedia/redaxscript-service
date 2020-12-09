@@ -1,10 +1,41 @@
-redirectmatch /download-primary/4-4-0 https://redaxscript.com/_download/releases/redaxscript-4.4.0-lite.zip
-redirectmatch /download-secondary/4-4-0 https://redaxscript.com/_download/releases/redaxscript-4.4.0-full.zip
+redirectmatch /download-primary/4-* https://redaxscript.com/_download/releases/redaxscript-4.4.0-lite.zip
+redirectmatch /download-secondary/4-* https://redaxscript.com/_download/releases/redaxscript-4.4.0-full.zip
 
-redirect /licenses/MIT https://github.com/sponsors/redaxmedia
-redirect /licenses/Sponsorware https://github.com/sponsors/redaxmedia
+redirect /licenses/MIT https://redaxscript.com/documentation/licenses/mit-license-1085
+redirect /licenses/Sponsor https://redaxscript.com/documentation/licenses/mit-sponsor-1086
 
-redirectmatch /modules/(.*) https://github.com/redaxscript/redaxscript/tree/master/modules/$1
+redirect /modules/AliasGenerator https://redaxscript.com/documentation/tutorials/alias-generator-module-1046
+redirect /modules/Analytics https://redaxscript.com/documentation/tutorials/analytics-module-1047
+redirect /modules/Archive https://redaxscript.com/documentation/tutorials/archive-module-1048
+redirect /modules/CallHome https://redaxscript.com/documentation/tutorials/call-home-module-1049
+redirect /modules/CodeEditor https://redaxscript.com/documentation/tutorials/code-editor-module-1050
+redirect /modules/ConfirmAction https://redaxscript.com/documentation/tutorials/confirm-action-module-1051
+redirect /modules/Contact https://redaxscript.com/documentation/tutorials/contact-module-1052
+redirect /modules/CssValidator https://redaxscript.com/documentation/tutorials/css-validator-module-1053
+redirect /modules/Debugger https://redaxscript.com/documentation/tutorials/debugger-module-1054
+redirect /modules/Demo https://redaxscript.com/documentation/tutorials/demo-module-1055
+redirect /modules/Dialog https://redaxscript.com/documentation/tutorials/dialog-module-1056
+redirect /modules/DirectoryLister https://redaxscript.com/documentation/tutorials/directory-lister-module-1057
+redirect /modules/FeedGenerator https://redaxscript.com/documentation/tutorials/feed-generator-module-1058
+redirect /modules/FeedReader https://redaxscript.com/documentation/tutorials/feed-reader-module-1059
+redirect /modules/FormValidator https://redaxscript.com/documentation/tutorials/form-validator-module-1060
+redirect /modules/Gallery https://redaxscript.com/documentation/tutorials/gallery-module-1061
+redirect /modules/HtmlValidator https://redaxscript.com/documentation/tutorials/html-validator-module-1062
+redirect /modules/ImageUpload https://redaxscript.com/documentation/tutorials/image-upload-module-1063
+redirect /modules/LiveReload https://redaxscript.com/documentation/tutorials/live-reload-module-1064
+redirect /modules/Maps https://redaxscript.com/documentation/tutorials/maps-module-1065
+redirect /modules/PageCache https://redaxscript.com/documentation/tutorials/page-cache-module-1066
+redirect /modules/Preview https://redaxscript.com/documentation/tutorials/preview-module-1067
+redirect /modules/RankSorter https://redaxscript.com/documentation/tutorials/rank-sorter-module-1068
+redirect /modules/Reporter https://redaxscript.com/documentation/tutorials/reporter-module-1069
+redirect /modules/Sitemap https://redaxscript.com/documentation/tutorials/sitemap-module-1070
+redirect /modules/SitemapXml https://redaxscript.com/documentation/tutorials/sitemap-xml-module-1071
+redirect /modules/SocialSharer https://redaxscript.com/documentation/tutorials/social-sharer-module-1072
+redirect /modules/SyntaxHighlighter https://redaxscript.com/documentation/tutorials/syntax-highlighter-module-1073
+redirect /modules/TestDummy https://redaxscript.com/documentation/tutorials/test-dummy-module-1074
+redirect /modules/TextareaResizer https://redaxscript.com/documentation/tutorials/textarea-resizer-1075
+redirect /modules/UnmaskPassword https://redaxscript.com/documentation/tutorials/unmask-password-module-1076
+redirect /modules/VisualEditor https://redaxscript.com/documentation/tutorials/visual-editor-module-1077
 
 redirect /version/4-0-0 /version/outdated.json
 redirect /version/4-1-0 /version/outdated.json
